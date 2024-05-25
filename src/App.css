@@ -1,0 +1,13 @@
+.input-field{
+  /* display: flexbox; */
+  justify-content: center;
+  align-items: center;
+  margin-left: 50%;
+  margin-top: 150px;
+}
+*{
+  font-size: 30px;
+}
+.input-field input{
+  border: 3px solid black;
+}
